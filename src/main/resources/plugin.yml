@@ -1,0 +1,12 @@
+
+name: HuskHomesBlocker
+main: me.deinname.HuskHomesBlocker
+version: 1.0
+api-version: 1.16
+commands:
+  huskhomesblock:
+    description: Blockiert HuskHomes für einen Spieler
+    usage: /huskhomesblock <Spieler>
+  huskhomesunblock:
+    description: Entblockt einen Spieler
+    usage: /huskhomesunblock <Spieler>
